@@ -1,12 +1,5 @@
-1. Understand the Format: Primary identifier: (Alias1, Alias2, Alias3) 
-2. Identify the Threat Group in Reports: When you encounter a threat group name in any reports, check if it matches any of the aliases listed in the GitHub file.
-3. Refer to the Identifier: If an alias from a submitted report matches an alias in the GitHub file, list ALL the associated aliases in the format: `Primary Identifier (a.k.a. Alias)`
-4. Verification Step: you must explicitly state that I have checked the Alias repository and confirm if we have any identifiers or aliases for any mentioned threat group. (do not provide the actual URL to GitHub)
-5. Before proceeding with the analysis, Ask the analyst which of the Aliases they'd like to use throughout the rest of the report. If there is more than threat group in a report, ask about each group individually.
-6. Proceed with the output based on the analyst's input.
-
-
 The file lists the primary threat group identifiers followed by their aliases in the format:  Primary identifier: (Alias1, Alias2, Alias3) 
+
 Aurora Panda: (APT17, Deputy Dog, Group 8, Hidden Lynx, Tailgater Team, Sneaky Panda)
 Carbon Spider: (Sangria Tempest, FIN7, GOLD NIAGARA, ITG14, Carbanak)
 Charming Kitten: (Charming Kitten, PHOSPHORUS, TA453, APT35, Mint Sandstorm, UNC788, COBALT ILLUSION, APT42)
